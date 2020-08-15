@@ -1,7 +1,7 @@
 ---
-title: "Showcase"
-date: "2018-07-18"
-author: "Hello Robot"
+title: "Projects"
+date: "2020-08-15"
+author: "Kaveri"
 ---
 
 ## Header 2

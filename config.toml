@@ -9,7 +9,7 @@ paginate = 5
   contentTypeName = "posts"
 
   # ["orange", "blue", "red", "green", "pink"]
-  themeColor = "blue"
+  themeColor = "green"
 
   # if you set this to 0, only submenu trigger will be visible
   showMenuItems = 4
@@ -46,7 +46,7 @@ paginate = 5
 [languages]
   [languages.en]
     languageName = "English"
-    title = "kppwebsiteterminal"
+    title = "Kaveri Priya Putti"
     subtitle = "A simple, retro theme for Hugo"
     owner = ""
     keywords = ""
@@ -59,7 +59,7 @@ paginate = 5
 
     [languages.en.params.logo]
       logoText = "KPP"
-      logoHomeLink = "/"
+      logoHomeLink = "/hello"
 
     [languages.en.menu]
       [[languages.en.menu.main]]
@@ -67,13 +67,13 @@ paginate = 5
         name = "About Me"
         url = "/about"
       [[languages.en.menu.main]]
-        identifier = "github"
-        name = "GitHub"
-        url = "https://github.com/kaveripriyap"
-      [[languages.en.menu.main]]
         identifier = "projects"
         name = "Projects"
         url = "/projects"
+      [[languages.en.menu.main]]
+        identifier = "github"
+        name = "GitHub"
+        url = "https://github.com/kaveripriyap"
       [[languages.en.menu.main]]
         identifier = "random"
         name = "Random"
