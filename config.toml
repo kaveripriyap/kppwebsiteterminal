@@ -9,7 +9,7 @@ paginate = 5
   contentTypeName = "posts"
 
   # ["orange", "blue", "red", "green", "pink"]
-  themeColor = "green"
+  themeColor = "blue"
 
   # if you set this to 0, only submenu trigger will be visible
   showMenuItems = 4
@@ -47,7 +47,7 @@ paginate = 5
   [languages.en]
     languageName = "English"
     title = "Kaveri Priya Putti"
-    subtitle = "A simple, retro theme for Hugo"
+    subtitle = "A noice website!"
     owner = ""
     keywords = ""
     copyright = ""
@@ -59,7 +59,7 @@ paginate = 5
 
     [languages.en.params.logo]
       logoText = "KPP"
-      logoHomeLink = "/hello"
+      logoHomeLink = "/posts/hello"
 
     [languages.en.menu]
       [[languages.en.menu.main]]
