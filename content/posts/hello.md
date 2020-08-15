@@ -2,7 +2,7 @@
 title = "Kaveri Priya Putti"
 date = "2020-08-15"
 author = "KPP"
-cover = "/static/img/kaavipic.jpg"
+cover = "kaavipic.jpg"
 description = "Yep, that's me! \nClick below to read more about me. :)"
 +++
 
